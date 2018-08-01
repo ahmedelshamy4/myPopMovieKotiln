@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.codangcoding:base-dagger-androidarch-1.0-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/base-dagger-androidarch-1.0-1.aar/052bce7b4c2c8251f287569dcfcbfbb9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/base-dagger-androidarch-1.0-1.aar/052bce7b4c2c8251f287569dcfcbfbb9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codangcoding/base-dagger-androidarch/1.0-1/c4bdb1871c9728f1a9d463cae312fee990a2c83a/base-dagger-androidarch-1.0-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
